@@ -1,14 +1,20 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
+		"AngularJS Attributes Completion",
 		"Base16 Color Schemes",
 		"Ciapre Color Scheme",
+		"Color Highlighter",
+		"ColorPicker",
 		"DocBlockr",
 		"EasyMotion",
 		"Emmet",
+		"HTMLBeautify",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
 		"JsFormat",
+		"JSHint Inline",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
