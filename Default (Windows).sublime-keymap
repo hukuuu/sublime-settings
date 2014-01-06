@@ -4,5 +4,7 @@
 	{ "keys": ["alt+down"], "command": "swap_line_down" },
 	{ "keys": ["ctrl+alt+up"], "command": "duplicate_line" },
 	{ "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
-  { "keys": ["ctrl+shift+k"], "command": "find_under_expand" }
+  { "keys": ["ctrl+shift+k"], "command": "find_under_expand" },
+  { "keys": ["ctrl+shift+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} }
 ]
