@@ -1,7 +1,25 @@
 {
 	"installed_packages":
 	[
+		"Base16 Color Schemes",
+		"Ciapre Color Scheme",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EasyMotion",
 		"Emmet",
-		"Package Control"
+		"HTMLBeautify",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JsFormat",
+		"JSHint Inline",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Wombat Theme"
 	]
 }
